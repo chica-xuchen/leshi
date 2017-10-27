@@ -1,0 +1,375 @@
+.film_box .head_logo{
+	width: 279px;
+	padding-right: 119px;
+}
+.film_box .head_logo1{
+	width: 151px;
+	height: 36px;
+	background-position: 0px 0px;
+	margin-top: 17px;
+}
+.film_box .head_logo2{
+	width:127px;
+	height: 64px;
+	background-position: 0px -46px;
+	margin-top: 7px;
+}
+.film_box .head_input{
+	width:273px;
+	height: 34px;
+	margin-top: 17px;
+	border: 1px solid #cbcbcb;
+	font: 14px/34px "微软雅黑";
+	padding-left: 5px;
+}
+.film_box .bai{
+	color: #bdbdbd;
+	padding-right:144px;
+}
+.film_box .le{
+	color: #9b9b9b;
+}
+.film_box .ico_sou{
+	float: right;
+	height: 36px;
+	width: 36px;
+	background-position: 0px -111px;
+	position: absolute;
+	top:17px;
+	right: 445px;
+}
+.film_box .head_input input{
+	font: 14px/34px "微软雅黑";
+	color: #f0aca9;
+}
+.film_box .head .head_right{
+	font:12px/78px "黑体";
+}
+.film_box .mai{
+	height: 20px;
+	width: 103px;
+	position: absolute;
+	top:50px;
+	right: 273px;
+	z-index: 1;
+	font:12px/20px "微软雅黑";
+	background-color: #53a4e5;
+	opacity: 0.8;
+	border-radius:4px;
+}
+.film_box .mai a{
+	color: #ffffff;
+}
+.film_box .ico_ren{
+	height: 18px;
+	width: 16px;
+	background-position: 0px -152px;
+	margin: 1px 3px 0px 5px;
+}
+.film_box .jiantou{
+	border: 4px solid transparent;
+	border-bottom:4px dashed #53a4e5;
+	position: absolute;	
+	top:-8px;
+	left: 30px;
+}
+.film_box .head_right a{
+	float: left;
+	color: #444444;
+}
+.film_box .ico_sanjiao{
+	width:7px;
+	height: 4px;
+	background-position: 0px -178px;
+	position: absolute;	
+	top:38px;
+	right: 145px;
+	margin-left: 3px;
+}
+.film_box .deng{
+	padding-right: 14px;
+}
+.film_box .big-nav{
+	width:971px;
+	height:44px;
+	padding: 0px 159px 0px 133px;
+	background: url(../img/nav_bg.jpg) repeat-x;
+	border-top:1px solid #FFFEFF;
+	border-bottom: 4px solid #cacaca;
+}
+.film_box .nav_left{
+	width: 159px;
+	height: 44px;
+	font: 16px/44px "黑体";
+}
+.film_box .nav_left a{
+	color: #454545;	
+}
+.film_box .shou{
+	padding-right: 7px;
+}
+.film_box .tv{
+	padding-left: 14px;
+}
+.film_box .ico_more1{
+	width: 15px;
+	height:44px;
+	background-position: 0px -197px;
+}
+.film_box .ico_more2{
+	width: 15px;
+	height:44px;
+	background-position: 0px -250px;
+}
+.film_box .ico_dian{
+	width:7px;
+	height: 4px;
+	background-position: 0px -178px;
+	margin: 22px 3px 0px 16px;
+}
+.film_box .nav_center{
+	width:426px;
+	height: 31px;
+	padding:0px 0px 13px 9px;
+}
+.film_box .nav_center a{
+	float: left;
+	font:14px/14px "微软雅黑";
+	color: #767676;
+	padding-right: 12px;
+	padding-top: 17px;
+}
+.film_box .ico_le{
+	width:116px;
+	height: 34px;
+	background-position: 0px -311px;
+	margin-top:6px;
+}
+.film_box .nav_right{
+	width:218px;
+	height: 14px;
+	font:14px/14px "微软雅黑";
+	padding: 17px 0px 13px 0px;
+}
+.film_box .nav_right a{
+	color: #585858;
+	padding: 0px 12px;
+	border-right: 1px solid #9d9d9d;
+}
+.film_box .nav_right .border{
+	border: 0;
+}
+.film_box .banner{
+	width: 1263px;
+	height: 400px;
+	position: relative;
+}
+.film_box .banner .img{
+	position: absolute;
+	left: 0px;
+	top: 0px;	
+}
+.film_box .banner_nav{
+	width: 715px;
+	height: 23px;
+	padding: 8px 400px 10px 187px;
+	position: absolute;
+	top: 359px;
+}
+.film_box .banner_nav a{
+	float: left;
+	height: 20px;
+	font: 14px/20px "微软雅黑";
+	padding:3px 18px 0px;
+	border-right: 1px solid #3a3a3b;
+	color: #fbfbfb;
+}
+.film_box .content{
+	height: 100%;
+	width: 887px;
+	background-color: #f5f5f5;
+	border-bottom:1px solid #fff ;
+	padding:0px 188px;
+	position: relative;
+}
+.film_box .content .border1{
+	border-right: 0;
+}
+.film_box .item{
+	width: 887px;
+	height: 403px;
+}
+.film_box .genbo{
+	font: 14px "微软雅黑";
+	color: #529bef;
+	padding-top: 31px;
+}
+.film_box .film{
+	width: 211px;
+	height: 321px;
+	padding:0px 16px 22px 0px;
+	position: relative;
+}
+.film_box .film img{
+	width: 211px;
+	height: 281px;
+}
+.film_box .item_int{
+	width:207px;
+	height: 38px;
+	padding: 3px 0px 0px 4px;
+}
+.film_box .item_int a{
+	width: 174px;
+}
+.film_box .film_name{
+	font:14px/26px "微软雅黑";
+	width: 174px;
+	color: #444444;
+}
+.film_box .film_int{
+	font: 12px "微软雅黑";
+	color: #969696;
+}
+.film_box .grade{
+	width: 26px;
+	height: 26px;
+	border:2px solid #eeaa58;
+	font:14px/26px arial;
+	text-align: center;
+	color: #eea751;
+	border-radius:14px ;
+}
+.film_box .padr{
+	padding-right: 11px;
+}
+.film_box .pad_right{
+	padding-right: 0px;
+}
+.film_box .hui{
+	display: inline-block;
+	width: 40px;
+	height: 20px;
+	font:12px/20px "微软雅黑" ;
+	text-align: center;
+	color: #ffffff;
+	background-color: #eb901e;
+	position: absolute;
+	top: 6px;
+	left: 5px;
+	border-radius: 3px;
+}
+.film_box .item1{
+	height: 275px;
+}
+.film_box .film1{
+	height: 215px;
+	width: 211px;
+	padding-bottom: 0px;
+}
+.film_box .film1 img{
+	height: 158px;
+	width: 211px;
+}
+.film_box .film1_name{
+	padding-top: 4px;
+	padding-left: 4px;
+}
+.film_box .add_tu{
+	width: 100%;
+	height: 90px;
+	padding-top: 17px;
+}
+.film_box .add_tu img{
+	width: 980px;
+	height: 90px;
+	position: absolute;
+	left:142px;
+	top:1902px;
+}
+.film_box .come{
+	height: 371px;
+	width: 888px;
+	padding-bottom: 4px;
+}
+.film_box .shangxian{
+	width: 100%;
+	height: 70px;
+	border-bottom: 2px solid #bdbdbd;
+	margin-bottom: 24px;
+}
+.film_box .riqi a{
+	display: inline-block;
+	margin: 20px 47px 24px 47px;
+	width: 115px;
+	height: 24px;
+	border: 1px solid #bdbdbd;
+	font: 12px/24px "微软雅黑";
+	text-align: center;
+	color: #4e4e4e;
+	border-radius: 3px;
+	position: relative;
+}
+.film_box .ico_30{
+	width: 18px;
+	height: 25px;
+	background-position: -45px -165px;
+	position: absolute;
+	bottom: -35px;
+	left:49px;
+}
+.film_box .ico_yuan{
+	width: 18px;
+	height:16px;
+	background-position: -85px -169px;
+	position: absolute;
+	bottom: -35px;
+	left:49px;
+}
+.film_box .yu{
+	display: inline-block;
+	width: 50px;
+	height: 20px;
+	font: 12px/20px "微软雅黑";
+	text-align: center;
+	background-color: #d70d19;
+	position: absolute;
+	color: #ffffff;
+	top: 138px;
+	left: 0px;
+}
+.film_box .chu_add{
+	position: absolute;
+	top:742px ;
+	left: 0px;
+}
+.film_box .add_chu{
+	padding-top: 0px;
+}
+.film_box .con_foot{
+	padding: 33px 159px 35px 264px;
+	position: relative;
+}
+.film_box .ico_lekan{
+	width: 108px;
+	height: 27px;
+	background-position: -65px -121px;
+	position: absolute;
+	top: 34px;
+	left:146px;
+}
+.film_box .con_input{
+	margin-top: 0px;
+	padding-left: 0px;
+	background-color: #fff;
+}
+.film_box .ico_sou1{
+	width: 34px;
+	height: 36px;
+	position: absolute;
+	top: 33px;
+	left: 510px;
+}
+.film_box .foot{
+	background-color: #f5f5f5;
+}
